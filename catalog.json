@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-25T00:00:00Z",
+  "packages": [
+    {
+      "productId": "product.9b5257ef716041338508eb9ed5257a0d",
+      "name": "Foxhole Helper",
+      "summary": "Удержание мыши для поддерживаемых действий в Foxhole.",
+      "latestVersion": "0.4.4",
+      "downloadUrl": "https://github.com/Aneonfas/nfg-amatic-packages/releases/download/foxhole-helper-0.4.4/Foxhole_Helper.amaticpkg",
+      "sha256": "",
+      "releaseNotes": "Мелкие фиксы.",
+      "tags": [
+        "Foxhole",
+        "Mouse Hold",
+        "Utility"
+      ],
+      "minPlayerVersion": "0.1.0"
+    }
+  ]
+}
