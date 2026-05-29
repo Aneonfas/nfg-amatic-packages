@@ -10,7 +10,7 @@ https://nfg-system.online/packages/
 
 ## Current packages
 
-- Foxhole Helper `0.4.5`
+- Foxhole Helper `0.5.0`
 
 ## Player
 
