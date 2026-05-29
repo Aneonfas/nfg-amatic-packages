@@ -10,7 +10,7 @@ https://nfg-system.online/packages/
 
 ## Current packages
 
-- Foxhole Helper `0.5.0`
+- Foxhole Helper `0.5.0` - current beta requires the Russian / Русский Foxhole game UI.
 
 ## Player
 
